@@ -1,0 +1,7 @@
+#########INSTALLATION########################
+1. Please refer to the link http://nodejs.org/ to install nodejs.
+2. Run "npm install" inside the project to install the project dependencies.
+
+########HOW TO RUN THE APPLICATION###########
+1. Run 'node app.js' inside the project.
+2. Hit 'http://localhost:3000' from the browser
